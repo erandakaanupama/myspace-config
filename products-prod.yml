@@ -1,0 +1,11 @@
+build:
+  version: "0.1"
+
+products:
+  message: "Welcome to myspace Products prod APIs"
+  contactDetails:
+    name: "Eradaka Bandara"
+    email: "erandakaanupama@gmail.com"
+  onCallSupport:
+    - (1)234
+    - (5)678
