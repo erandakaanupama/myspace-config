@@ -2,7 +2,7 @@ build:
   version: "0.1"
 
 products:
-  message: "Welcome to myspace Products prod APIs"
+  message: "Welcome to myspace Products prod docker APIs"
   contactDetails:
     name: "Eradaka Bandara"
     email: "erandakaanupama@gmail.com"
