@@ -1,5 +1,5 @@
 build:
-  version: "0.2"
+  version: "0.1"
 
 products:
   message: "Welcome to myspace Products APIs"
